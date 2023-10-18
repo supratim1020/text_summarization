@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Saira:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital@1&display=swap');
+
+.jumbotron{
+    background-color: #ffc150;
+    padding: 2rem 2rem;
+    font-family: 'Merriweather Sans';
+}
+
+.form-control{
+    box-shadow: -5px 5px 16px 0 rgba(0, 0, 0, 0.2), 0px -2px 50px 0 rgba(8, 0, 0, 0.19);
+    height: 300px;
+    border-radius: 15px;
+    padding: 20px 20px;
+    background-color: #84f3ba6e;
+}
+/* headings */
+.orginal_title{
+    background-color: #ff8b5c;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+
+    border-radius: 0px 25px;
+    font-family: 'Saira', sans-serif;
+}
+
+.summary_title{
+    background-color: greenyellow;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+
+    border-radius: 0px 25px;
+    font-family: 'Saira', sans-serif;
+}
+
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+
+/* paragraphs */
+.orginalTxt{
+    background-color: #cfbdff;
+    padding: 25px;
+    /* margin-right: 10px; */
+    border-radius: 30px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: -6px 7px 40px rgb(0 0 0 / 24%);
+}
+
+.summaryTxt{
+    background-color: #53ffce;
+    padding: 25px;
+    margin-left: 10px;
+
+    max-width: 100%;
+    border-radius: 30px;
+    font-size: 16px;
+    font-family: 'Montserrat', sans-serif;
+    box-shadow: 6px 7px 40px rgb(0 0 0 / 24%);
+}
+
+.heading{
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+}
+
+.lead{
+    display: flex;
+    justify-content: center;
+}
+.submitBtn{
+    margin-top: 22px;
+    border-radius: 100px;
+    width: 154px;
+    font-size: 20px;
+}
+
+.btn-danger {
+    margin-bottom: 15px;
+}
+
