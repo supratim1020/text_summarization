@@ -1,5 +1,5 @@
 # text_summarization
-- First install following libraries using python `pip`.<br>
+- First install following libraries using python `pip`.
 `pip install -U setuptools wheel`
 `pip install -U spacy`
 `python -m spacy download en_core_web_sm`
